@@ -21,7 +21,3 @@ A fun JavaScript-based typing speed tester that shows WPM, time, and accuracy. N
 - CSS
 - JavaScript (no libraries)
 
----
-
-## 📂 Folder Structure
-
